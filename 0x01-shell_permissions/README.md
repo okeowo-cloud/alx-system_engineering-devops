@@ -22,3 +22,5 @@ A description of the 0x01-shell_permissions scripts
 
 9-John_Doe: script sets the mode of the file hello to -rwxr-x-wx.
 
+10-mirror_permissions: script sets the mode of the file hello the same as olleh’s mode.
+
