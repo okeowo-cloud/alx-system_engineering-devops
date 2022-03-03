@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A description of all the project scripts
+A description of all the project scripts
 
 0-current_working_directory: prints the absolute path name of the current working directory.
 
