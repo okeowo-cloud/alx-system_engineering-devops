@@ -10,3 +10,7 @@ A description of the 0x01-shell_permissions scripts
 
 3-new_owner: changes the owner of the file hello to the user betty.
 
+4-empty: creates an empty file called hello.
+
+5-execute: script that adds execute permission to the owner of the file hello.
+
