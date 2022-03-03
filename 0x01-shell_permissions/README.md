@@ -34,3 +34,5 @@ A description of the 0x01-shell_permissions scripts
 
 101-symbolic_link_permissions: changes the owner and the group owner of _hello to vincent and staff respectively.
 
+102-if_only: changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
