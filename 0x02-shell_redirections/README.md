@@ -44,3 +44,5 @@ Shell I/O Redirection
 
 20-hiago: Script removes all letters c and C from input.
 
+21-reverse: Script reverses its input.
+
