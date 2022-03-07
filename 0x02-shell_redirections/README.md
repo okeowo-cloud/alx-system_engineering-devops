@@ -12,3 +12,5 @@ Shell I/O Redirection
 
 4-lastfiles: Script displays the last 10 lines of /etc/passwd.
 
+5-firstlines: Script displays the first 10 lines of /etc/passwd.
+
