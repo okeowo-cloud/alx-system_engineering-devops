@@ -16,3 +16,5 @@ Shell I/O Redirection
 
 6-third_line: Script displays the third line of the file iacta.
 
+7-file: Script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
