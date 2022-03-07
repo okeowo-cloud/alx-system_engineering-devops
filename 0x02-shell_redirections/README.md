@@ -14,3 +14,5 @@ Shell I/O Redirection
 
 5-firstlines: Script displays the first 10 lines of /etc/passwd.
 
+6-third_line: Script displays the third line of the file iacta.
+
