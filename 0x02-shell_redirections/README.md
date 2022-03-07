@@ -42,3 +42,5 @@ Shell I/O Redirection
 
 19-AZ: Script replace all characters A and c from input to Z and e respectively.
 
+20-hiago: Script removes all letters c and C from input.
+
