@@ -30,3 +30,5 @@ Shell I/O Redirection
 
 13-unique: Script takes a list of words as input and prints only words that appear exactly once.
 
+14-findthatword: Script displays lines containing the pattern “root” from the file /etc/passwd.
+
