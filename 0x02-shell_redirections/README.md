@@ -26,3 +26,5 @@ Shell I/O Redirection
 
 11-directories: Script counts the number of directories and sub-directories in the current directory.
 
+12-newest_files: Script displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest.
+
