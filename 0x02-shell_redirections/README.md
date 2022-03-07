@@ -46,3 +46,5 @@ Shell I/O Redirection
 
 21-reverse: Script reverses its input.
 
+22-users_and_homes: Script displays all users and their home directories, sorted by users based on the /etc/passwd file.
+
