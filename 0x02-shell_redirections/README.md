@@ -10,3 +10,5 @@ Shell I/O Redirection
 
 3-twofiles: Script displays the content of /etc/passwd and /etc/hosts.
 
+4-lastfiles: Script displays the last 10 lines of /etc/passwd.
+
