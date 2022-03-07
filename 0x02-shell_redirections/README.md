@@ -28,3 +28,5 @@ Shell I/O Redirection
 
 12-newest_files: Script displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest.
 
+13-unique: Script takes a list of words as input and prints only words that appear exactly once.
+
