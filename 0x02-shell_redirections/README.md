@@ -6,3 +6,5 @@ Shell I/O Redirection
 
 1-confused_smiley: Script displays a confused smiley "(Ôo)'.
 
+2-hellofile: Script displays the content of the /etc/passwd file.
+
