@@ -8,3 +8,5 @@ Shell I/O Redirection
 
 2-hellofile: Script displays the content of the /etc/passwd file.
 
+3-twofiles: Script displays the content of /etc/passwd and /etc/hosts.
+
