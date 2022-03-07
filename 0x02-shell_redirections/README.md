@@ -32,3 +32,5 @@ Shell I/O Redirection
 
 14-findthatword: Script displays lines containing the pattern “root” from the file /etc/passwd.
 
+15-countthatword: Script display the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
