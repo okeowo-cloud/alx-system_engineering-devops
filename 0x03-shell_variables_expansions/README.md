@@ -27,3 +27,5 @@ Scripts:
 
 12-combinations: prints all possible combinations of two letters, except oo. Letters are lower cases, from a to z.
 
+13-print_float: prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+
