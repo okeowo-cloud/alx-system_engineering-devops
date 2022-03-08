@@ -15,3 +15,5 @@ Scripts:
 
 6-create_local_variable:creates a new local variable with name "BEST" value "School".
 
+7-create_global_variable: creates a new global variable with name "BEST" value "School".
+
