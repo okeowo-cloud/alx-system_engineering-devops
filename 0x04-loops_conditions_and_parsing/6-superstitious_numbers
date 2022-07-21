@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Displays numbers from 1 to 20 and:
+# Displays 4 and the "bad luck from China" on 4th iter
+# Displays 9 and then "bad luck from Japan" on 9th iter
+# Displays 17 and then "bad luck from Italy" on 17th iter
+
+count=1
+
+while [ $count -le 20 ]
+do
+ echo $count
+if [[ $count -eq 4 ]]
+then
+ echo "bad luck from China"
+elif [[ $count -eq 9 ]]
+then
+ echo "bad luck from Japan"
+elif [[ $count -eq 17 ]]
+then
+ echo "bad luck from Italy"
+fi
+ (( count++ ))
+done
