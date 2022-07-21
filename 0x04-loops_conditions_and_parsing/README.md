@@ -20,3 +20,6 @@
 
 9-to_file_or_not_to_file: Bash Script gives informaion about the "school" file.
 
+10-fizzbuzz: Bash script displays numbers from 1 to 100, Displays FizzBuzz when the number is a multiple of 3 and 5, Displays Fizz when the number is multiple of 3
+Displays Buzz when the number is a multiple of 5, Otherwise, displays the number.
+
