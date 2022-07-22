@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# parses apache log files
-# Displays Number of occurence, ip & status
-
-awk '{print $1, $9}' apache-access.log | sort | uniq -c
