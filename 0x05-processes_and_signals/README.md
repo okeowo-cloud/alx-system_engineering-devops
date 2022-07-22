@@ -4,3 +4,5 @@
 
 1-list_your_processes: Bash Script displays a list of currently running processes.
 
+2-show_your_bash_pid: Bash Script displays lines containing the "bash" word, allowing us to easily get the PID of Bash process.
+
