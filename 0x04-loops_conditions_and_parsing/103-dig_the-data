@@ -2,4 +2,4 @@
 # parses apache log files
 # Displays Number of occurence, ip & status
 
-awk '{print $1, $9}' apache-access.log | uniq -c | sort -r
+awk '{print $1, $9}' apache-access.log | sort | uniq -c | sort -nr
