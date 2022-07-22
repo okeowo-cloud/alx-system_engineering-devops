@@ -6,3 +6,5 @@
 
 2-show_your_bash_pid: Bash Script displays lines containing the "bash" word, allowing us to easily get the PID of Bash process.
 
+3-show_your_bash_pid_made_easy: Bash Script displays the PID, along with the process name, of processes whose name contain the word bash.
+
