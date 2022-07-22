@@ -17,3 +17,5 @@
 7-highlander: Bash script displays "To infinity and beyond" indefinitely with a sleep 2 in between each iteration, Displays "I am invincible!!!" when recieving a SIGTERM signal.
 
 8-beheaded_process: Bash Script kills the process 7-highlander
+
+100-process_and_pid_file: Bash Script creates the file /var/run/myscript.pid containing its PID. Displays "To infinity and beyond" indefinitely, Displays "I hate the kill command" when receiving a SIGTERM signal, Displays "Y U no love me?!" when receiving a SIGINT signal, Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal.
