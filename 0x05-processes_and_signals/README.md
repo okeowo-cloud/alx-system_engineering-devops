@@ -14,3 +14,4 @@
 
 6-stop_me_if_you_can: Bash Script stops "4-to_infinity_and_beyond" process.
 
+7-highlander: Bash script displays "To infinity and beyond" indefinitely with a sleep 2 in between each iteration, Displays "I am invincible!!!" when recieving a SIGTERM signal.
