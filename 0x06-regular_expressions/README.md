@@ -13,3 +13,5 @@
 5-beginning_and_end.rb: Ruby Script matches a string that starts with "h" and contains any single character and ends with "n"
 
 6-phone_number.rb: Ruby script match a 10 digit phone number.
+
+7-OMG_WHY_ARE_YOU_SHOUTING.rb: Ruby scipt only matches uppercase letters
